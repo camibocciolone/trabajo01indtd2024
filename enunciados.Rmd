@@ -1,0 +1,70 @@
+---
+title: "Enunciados"
+lang: es
+format:
+  html:
+    toc: true
+  typst:
+    toc: true
+    pdf-engine: typst
+    papersize: a4
+    margin:  {x: 1.75cm, y: 1.5cm}
+execute:
+  cache: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+
+## Problema 1
+  
+Aplicar los criterios de decisión bajo incertidumbre a el problema cuya tabla de decisión es la siguiente:
+
+**favorable**
+
+|     | E1  | E2  | E3  |
+|-----|-----|-----|-----|
+| D1  | 90  | 45  | -10 |
+| D2  | 70  | 55  | 15  |
+| D3  | 40  | 35  | 22  |
+
+**desfavorable**
+
+|     | E1  | E2  | E3  |
+|-----|-----|-----|-----|
+| D1  | -90 | -45 | 10  |
+| D2  | -70 | -55 | -15 |
+| D3  | -40 | -35 | -22 |
+
+resuelverlo con cada uno de los métodos o funciones individuales de incertidumbre por separado (tanto en situación favorable como desfavorable)
+
+## Problema 2 – Restaurante italiano y elección del menú
+
+Un restaurante italiano debe decidir qué nuevo plato principal incluir en el menú de la próxima temporada. Las alternativas son:
+
+-   **E1:** Lasagna vegetariana con verduras de temporada
+
+-   **E2:** Risotto ai frutti di mare
+
+-   **E3:** Ossobuco alla milanese con risotto a la milanesa
+
+El éxito del plato depende de la preferencia de los clientes, es decir, de los **estados de la naturaleza**:
+
+-   **S1:** Alta demanda de platos saludables y vegetarianos
+
+-   **S2:** Preferencias equilibradas entre distintas opciones
+
+-   **S3:** Mayor inclinación hacia la tradición italiana clásica
+
+El restaurante estima los beneficios esperados (en miles de €) de la siguiente forma
+
+|     | S1  | S2  | S3  |
+|-----|-----|-----|-----|
+| E1  | 80  | 50  | 20  |
+| E2  | 70  | 60  | 40  |
+| E3  | 30  | 55  | 90  |
+
+Estados de la naturaleza S1 (saludable) S2 (equilibrada) S3 (tradicional)
+
+Determinar cuál es la mejor decisión para el restaurante aplicando la función R que devuelve la resolución de todos los métodos en una única tabla

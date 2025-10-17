@@ -19,6 +19,7 @@ El objetivo del trabajo es crear dos documentos:
 - **`enunciados.Rmd`** → contiene los enunciados de los dos problemas.  
 - **`Resoluciones.qmd`** → contiene la resolución completa con el código R y las conclusiones.  
 - **`README.md`** → este documento, que describe el contenido y la organización del repositorio.
+- **importante** → el archivo teoriadecision_funciones_incertidumbre.R utilizado en las resoluciones procede del repositorio público https://github.com/calote/TDecisionCodigo.git, donde se encuentra el código base empleado en la asignatura.
 
 ---
 

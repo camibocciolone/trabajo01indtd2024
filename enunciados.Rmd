@@ -57,14 +57,19 @@ El éxito del plato depende de la preferencia de los clientes, es decir, de los�
 
 -   **S3:** Mayor inclinación hacia la tradición italiana clásica
 
-El restaurante estima los beneficios esperados (en miles de €) de la siguiente forma
+El restaurante estima los beneficios netos (en miles de euros) considerando los **ingresos obtenidos** por la venta del plato y los **costes de preparación** asociados.  
+Así, por ejemplo:
 
-|     | S1  | S2  | S3  |
-|-----|-----|-----|-----|
-| E1  | 80  | 50  | 20  |
-| E2  | 70  | 60  | 40  |
-| E3  | 30  | 55  | 90  |
+- Bajo **S1**, la lasaña vegetariana (**E1**) genera ingresos de 120 000 € y tiene un coste de 40 000 €, obteniendo un beneficio de **80 000 €**.  
+  En cambio, el risotto ai frutti de mare (**E2**) gana 110 000 € y gasta 40 000 €, resultando en **70 000 €**,  
+  mientras que el ossobuco (**E3**) solo gana 70 000 € y gasta 40 000 €, quedando con **30 000 €**.
 
-Estados de la naturaleza S1 (saludable) S2 (equilibrada) S3 (tradicional)
+- Bajo **S2**, la lasaña obtiene **90 000 € de ingresos** y **40 000 € de costes**, por lo que gana **50 000 €**.  
+  El risotto gana **100 000 €** y pierde **40 000 €**, quedando con **60 000 €**,  
+  y el ossobuco gana **95 000 €** y pierde **40 000 €**, obteniendo **55 000 €**.
+
+- Finalmente, bajo **S3**, la lasaña gana **60 000 €** y pierde **40 000 €**, quedando con **20 000 €**,  
+  el risotto gana **80 000 €** y pierde **40 000 €**, quedando con **40 000 €**,  
+  y el ossobuco gana **130 000 €** y pierde **40 000 €**, obteniendo **90 000 €**.
 
 Determinar cuál es la mejor decisión para el restaurante aplicando la función R que devuelve la resolución de todos los métodos en una única tabla

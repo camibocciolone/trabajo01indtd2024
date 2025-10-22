@@ -251,6 +251,23 @@ Determinar cuál es la mejor decisión para el restaurante aplicando la función
     -   **S2:** Preferencias equilibradas entre distintas opciones
 
     -   **S3:** Mayor inclinación hacia la tradición italiana clásica
+    
+**Valoraciones (beneficios netos en miles de €):**
+
+- **Estado S1:**  
+  - x₁,₁ = 120 − 40 = 80  
+  - x₂,₁ = 110 − 40 = 70  
+  - x₃,₁ = 70 − 40 = 30  
+
+- **Estado S2:**  
+  - x₁,₂ = 90 − 40 = 50  
+  - x₂,₂ = 100 − 40 = 60  
+  - x₃,₂ = 95 − 40 = 55  
+
+- **Estado S3:**  
+  - x₁,₃ = 60 − 40 = 20  
+  - x₂,₃ = 80 − 40 = 40  
+  - x₃,₃ = 130 − 40 = 90  
 
 -   Tabla de valoraciones:
 

@@ -67,7 +67,7 @@ Así, por ejemplo:
 - Bajo **S2**, la lasaña obtiene **90 000 € de ingresos** y **40 000 € de costes**, por lo que gana **50 000 €**.  
   El risotto gana **100 000 €** y pierde **40 000 €**, quedando con **60 000 €**,  
   y el ossobuco gana **95 000 €** y pierde **40 000 €**, obteniendo **55 000 €**.
-
+ 
 - Finalmente, bajo **S3**, la lasaña gana **60 000 €** y pierde **40 000 €**, quedando con **20 000 €**,  
   el risotto gana **80 000 €** y pierde **40 000 €**, quedando con **40 000 €**,  
   y el ossobuco gana **130 000 €** y pierde **40 000 €**, obteniendo **90 000 €**.

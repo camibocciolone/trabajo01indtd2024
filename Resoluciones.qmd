@@ -265,7 +265,7 @@ Determinar cuál es la mejor decisión para el restaurante aplicando la función
   - x₃,₂ = 95 − 40 = 55  
 
 - **Estado S3:**  
-  - x₁,₃ = 60 − 40 = 20  
+  - x₁,₃ = 60 − 40 = 20   
   - x₂,₃ = 80 − 40 = 40  
   - x₃,₃ = 130 − 40 = 90  
 
